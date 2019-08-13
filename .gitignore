@@ -1,0 +1,48 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Eclipse ###
+.classpath
+.project
+
+.DS_Store
+gradle/*
+logDir_IS_UNDEFINED/
+logs/
+gradlew
+gradlew.bat
+
+### Gradle ###
+/bin/
+
+#enviroment related
+.env
+
+#mvn
+target
+.mvn
